@@ -34,23 +34,21 @@ A smart chatbot that answers frequently asked questions using Natural Language P
 
 
 ---
-
 ## ⚙️ Setup & Run Instructions
-
-### Step 1: Clone this repo
-
-```bash
-git clone https://github.com/yourusername/CodeAlpha_Chatbot.git
+Step 1: Clone the Repository
+bash
+git clone https://github.com/Stellarlaunch/CodeAlpha_Chatbot.git
 cd CodeAlpha_Chatbot
 
-### Step 2: Install dependencies
-
+Step 2: Install Dependencies
 bash
 pip install -r requirements.txt
 
-### Step 3: Run the chatbot (UI)
+Step 3: Run the Chatbot UI
 bash
 streamlit run chatbot_ui.py
+
+---
 
 📌 How It Works
 Loads FAQs from faq_data.json
@@ -63,8 +61,12 @@ Compares user query with stored questions using cosine similarity
 
 Returns the most relevant answer or a fallback response
 
+---
+
 🖼️ UI Preview
 ![FAQchatbot]()
+
+---
 
 ✍️ Created By
 Dhiraj Musale
