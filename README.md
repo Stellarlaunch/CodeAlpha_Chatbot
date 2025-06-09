@@ -64,7 +64,7 @@ Returns the most relevant answer or a fallback response
 ---
 
 🖼️ UI Preview
-![FAQchatbot]()
+![FAQchatbot](https://github.com/Stellarlaunch/CodeAlpha_Chatbot/blob/fedb33e9cceba44a02b7f8b8c3c03bc0226ed1bb/CodeAlpha_chatbot.jpg)
 
 ---
 
